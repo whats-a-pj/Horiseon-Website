@@ -12,6 +12,28 @@ By changing the names to semantic html/css elements and adding descriptive notes
 
 I have a better understanding of why semantic elements are far more "beginner friendly" than div elements. I figured out a more consistent way of using all of my resources for problem-solving. I learned how to properly notate my css and html files and how to clone a repository so that I can make local changes and eventually push them to my own github repository.
 
+<details> <summary> Full Process </summary>
+
+Renamed all div classes to semantic tags based on the elements functions
+
+Renamed section classes based on what section of the webpage they go to
+
+Moved CSS attributes into sequential order of which they appear on the index.html file
+
+Added notes on index.html file to describe the photos & what they depict
+
+Added notes on style.css file to describe what the classes & attributes relate to
+
+Changed Search Engine Optimization to an ID instead of a CLASS so the button/link would function properly
+
+While updating the div tags to semantic, the banner no longer fit the webpage like it did originally. I resized it to fit as it should.
+
+Pushed to remote repo
+
+Updated README file one last time to summarize all my changes, as I pushed it all in one go instead of committing changes throughout the process.
+
+</details>
+
 <details> <summary>Credits</summary>
 
 The original starter code came from this repository
